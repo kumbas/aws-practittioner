@@ -29,3 +29,8 @@ Follow the steps:
 - git clone
 - npm i
 - ng serve
+
+Links:
+
+- https://e-shop-bucket-aws.s3.amazonaws.com/
+- https://d2zmhclyhh4n4b.cloudfront.net/
